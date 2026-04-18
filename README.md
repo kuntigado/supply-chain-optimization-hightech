@@ -41,6 +41,11 @@ budget and coverage constraints?
 - Mathematically proven optimal solution (PuLP CBC solver)
 - Clear risk vs cost tradeoff visualized across full portfolio
 
+The model demonstrates how data-driven optimization can support 
+repair-or-replace decisions and supplier portfolio resilience — 
+directly relevant to circular economy transitions in high-tech 
+manufacturing.
+
 ## Relevance to Current Research
 This work connects directly to circular supply chain design 
 challenges in high-tech manufacturing — where supplier network 
