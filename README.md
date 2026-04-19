@@ -64,7 +64,7 @@ chain design for circular high-tech ecosystems.
 ## Author
 Kuntay Akca
 
-Supply Chain Project Manager, ASML
+Senior Supply Chain Project Manager, ASML
 
 MSc Industrial Engineering
 
